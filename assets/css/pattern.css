@@ -36,6 +36,7 @@ h2 span {
 }
 
 .btn-primary {
+    cursor: pointer;
     border-radius: 24px;
     font-weight: 700;
     line-height: 2.4rem;
